@@ -1,0 +1,6 @@
+#pip install pip==20.2.2
+requests
+selenium
+fake-useragent
+#webdriver-manager
+
